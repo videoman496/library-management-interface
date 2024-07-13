@@ -1,0 +1,14 @@
+D:\С#\syntax_study\first app\StudentManagementInterface\StudentManagementInterface\bin\Debug\net8.0\StudentManagementInterface.exe
+D:\С#\syntax_study\first app\StudentManagementInterface\StudentManagementInterface\bin\Debug\net8.0\StudentManagementInterface.deps.json
+D:\С#\syntax_study\first app\StudentManagementInterface\StudentManagementInterface\bin\Debug\net8.0\StudentManagementInterface.runtimeconfig.json
+D:\С#\syntax_study\first app\StudentManagementInterface\StudentManagementInterface\bin\Debug\net8.0\StudentManagementInterface.dll
+D:\С#\syntax_study\first app\StudentManagementInterface\StudentManagementInterface\bin\Debug\net8.0\StudentManagementInterface.pdb
+D:\С#\syntax_study\first app\StudentManagementInterface\StudentManagementInterface\obj\Debug\net8.0\StudentManagementInterface.GeneratedMSBuildEditorConfig.editorconfig
+D:\С#\syntax_study\first app\StudentManagementInterface\StudentManagementInterface\obj\Debug\net8.0\StudentManagementInterface.AssemblyInfoInputs.cache
+D:\С#\syntax_study\first app\StudentManagementInterface\StudentManagementInterface\obj\Debug\net8.0\StudentManagementInterface.AssemblyInfo.cs
+D:\С#\syntax_study\first app\StudentManagementInterface\StudentManagementInterface\obj\Debug\net8.0\StudentManagementInterface.csproj.CoreCompileInputs.cache
+D:\С#\syntax_study\first app\StudentManagementInterface\StudentManagementInterface\obj\Debug\net8.0\StudentManagementInterface.dll
+D:\С#\syntax_study\first app\StudentManagementInterface\StudentManagementInterface\obj\Debug\net8.0\refint\StudentManagementInterface.dll
+D:\С#\syntax_study\first app\StudentManagementInterface\StudentManagementInterface\obj\Debug\net8.0\StudentManagementInterface.pdb
+D:\С#\syntax_study\first app\StudentManagementInterface\StudentManagementInterface\obj\Debug\net8.0\StudentManagementInterface.genruntimeconfig.cache
+D:\С#\syntax_study\first app\StudentManagementInterface\StudentManagementInterface\obj\Debug\net8.0\ref\StudentManagementInterface.dll
